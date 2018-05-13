@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+h1  {
+  font-family: fantasy;
+  font-size: 52px;
+  color: Red;
+  margin: auto;
+}
+
+.main-header {
+  background-color: grey;
+  margin-bottom 1.5em;
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+}
+
+.main-header  {
+  padding:  1.5em;
+  background: lightgrey;
+  margin-bottom: 1.5em;
+}
+
+.main-body  {
+  color: blue;
+  background-color: lightgrey;
+}
+
+.nav-bar-earth  {
+  color: white;
+
+}
+
